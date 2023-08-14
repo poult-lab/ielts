@@ -1,3 +1,306 @@
+## Reading
+
+#### C16T1P1
+
+01.polar /ˈpoʊlər/
+
+[adj] polar explorers
+
+"connected with, or near the North or South Pole"
+
+[adj] The parents' position is often the polar opposite of the child's.
+
+"used to describe sth that is the complete opposite of sth else"
+
+
+
+02.polar bear/ˈpoʊlər ber/
+
+[n] why we need to protect polar bears
+
+"a white bear that lives near the North Pole"
+
+
+
+03.far-reaching /ˌfɑːr ˈriːtʃɪŋ/
+
+[adj] but thiir disappearance could have far-reaching consequences.
+
+"likely to have a lot of influence or many effects"
+
+
+
+04.Arctic /ˈɑːrktɪk/
+
+[adj] Arctic explorers.
+
+"related to or happening in the regions around the North Pole"
+
+
+
+05.Antarctic /ænˈtɑːrktɪk/ 
+
+[adj] The penguin waddled gracefully across the icy terrain of the Antarctic, its sleek feathers glistening in the polar sunlight.
+
+"the regions of the world around the South Pole"
+
+
+
+06.underneath /ˌʌndərˈniːθ/
+
+[prep] One reason for this is that they have up to 11 centimetres of fat underneath their skin. 
+
+"under or below sth else, especially when it is hidden or covered by the thing on top"
+
+
+
+07.adipose tissue /ˈædɪpoʊs ˈtɪʃuː/
+
+[noun] Human with comparative levels of adipose tissue would ba considered obease and would be likely to suffer diabetes and heart disease.
+
+"a kind of body tissue containing stored fat that serves as a source of energy"
+
+
+
+08.shed light on /ʃed laɪt ɑːn/
+
+[vp]  A 2014 study by Shi Ping Liu and colleagues sheds light on this mystery. 
+
+"make free from confusion or ambiguity"
+
+
+
+09.that of 
+
+[1] The size of China is bigger than that of USA.(that of = the size of) "that of 代替了前面的某个内容"
+
+[2] My teaching style is similar to that of most other teachers. "那一类"
+
+
+
+10.lipoprotein /ˈlɪpəproʊtiːn/
+
+[n] "a protein that combines with a **lipid** and carries it to another part of the body in the blood"
+
+
+
+11.cholesterol /kəˈlestərɔːl/
+
+[n] "a substance found in blood, fat and most tissues of the body. Too much cholesterol can cause heart disease."
+
+
+
+12.mutation /mjuːˈteɪʃn/
+
+[n] In humans, mutations of this **gene** are associated with increased risk of heart disease.
+
+"a process in which the genetic material of a person, a plant or an animal changes in structure when it is passed on to children, etc., causing different physical characteristics to develop; a change of this kind"
+
+
+
+13.genome /ˈdʒiːnoʊm/
+
+[n] the human genome.
+
+"the complete set of genes in a cell or living thing"
+
+
+
+14.osteoporosis /ˌɑːstioʊpəˈroʊsɪs/
+
+[n] **Osteoporosis** is a condition in which your bones lose calcium and become more likely to break.
+
+"a condition in which the bones become weak and are easily broken, usually when people get older or because they do not eat enough of certain substances"
+
+
+
+15.starvation /stɑːrˈveɪʃn/
+
+[n] This is a disease where bones show reduced density, usually caused by insufficient exercise, reduced calcium intake or **food starvation**.
+
+"the state of suffering and death caused by having no food"
+
+
+
+16.den /den/
+
+[n] Once autumn comes around, these females will dig maternity dens in the snow and will **remain** there **throughout** the winter, both before and after the birth of their cubs.
+
+"the hidden home of some types of wild animal"
+
+
+
+17.cub /kʌb/
+
+[n] the **female** bears have to keep themselves and their cubs alive, depleting their own **calcium** and **calorie** reserves.
+
+"a young bear , lion , fox , etc."
+
+
+
+18.deplete /dɪˈpliːt/
+
+[v] Food supplies were severely depleted.
+
+"to reduce sth by a large amount so that there is not enough left"
+
+
+
+19.paradox /ˈpærədɑːks/
+
+[n] It's a work full of paradox and ambiguity. 
+
+"a statement containing two opposite ideas that make it seem impossible or unlikely, although it is probably true; the use of this in writing"
+
+
+
+20.emerge /iˈmɜːrdʒ/
+
+[v] In **addition**, six months later, when they finally emerged from the den with their cubs, there was no **evidence** of **significant** loss of bone **density**. 
+
+"to come out of a dark, confined or hidden place"
+
+
+
+21.hibernate /ˈhaɪbərneɪt/
+
+[vi] Hibernating brown bears do not have this **capacity** and must **therefore** **resort** to **major** bone reformation in the following **spring**.
+
+"to spend the winter in a state like deep sleep"
+
+
+
+22.astronaut /ˈæstrənɔːt/
+
+[n] If the **mechanism** of bone remodelling in polar bears can be understood, many bedridden humans, and even astronauts, could potentially **benefit**.
+
+"a person whose job involves travelling and working in a spacecraft"
+
+
+
+23.conservation /ˌkɑːnsərˈveɪʃn/
+
+[n] The **medical** benefits of the polar bear for **humanity** certainly have their importance in our **conservation** efforts. 
+
+"the protection of the natural environment"  symnopy:conservancy
+
+
+
+24.primate /ˈpraɪmeɪt/
+
+[n] Gorillas are the largest living primate by size. 
+
+"any animal that belongs to the group of **mammals** that includes humans, apes and monkeys"
+
+
+
+25.mammal /ˈmæml/
+
+[n] **Mammals** are animals such as humans, dogs, lions, and whales. In general, female mammals give birth to babies rather than laying eggs, and feed their young with milk.
+
+"any animal that gives birth to live babies, not eggs, and feeds its young on milk. Cows, humans and whales are all mammals ."
+
+
+
+26.tend /tend/
+
+[v] We **tend** to want to protect animals we think are **intelligent** and **possess** emotions, such as elephants and primates.
+
+"to take a particular direction or often have a particular quality"
+
+
+
+27.And yet /ənd jet/
+
+*Max wants to be a basketball player, **but** he never practices.*
+
+*Max wants to be a basketball player, **yet** he never practices.*
+
+How are *but* and *yet* similar in these sentences? They both introduce a contrast. That much is clear. Also, *yet* does sound more formal. However, there is a subtle difference in the two intended meanings--in the *feeling* of each sentence. Perhaps you can see and feel the difference, but you cannot quite express *why* these two sentences are slightly different. So, what is the difference? In the simplest terms:
+
+1. *But* introduces a contrast and simply treats it as a fact with little or no emotional component.
+2. *Yet* introduces a contrast, but it also expresses a feeling of expectation, surprise, or mystery.
+
+When we say "Max wants to be  a basketball player, yet he never practices," we feel that he should practice. We expect him to practice. "Why isn't he practicing?" we wonder. It is surprising, and perhaps even confusing, that he does not practice. With all of this in mind, we can see that ***yet*** **shows a stronger contrast** with the elements of expectation, surprise, and/or mystery mentioned above.
+
+
+
+28.dislodge /dɪsˈlɒdʒ/ /dɪsˈlɑːdʒ/
+
+[v] The wind dislodged one or two tiles from the roof.
+
+"to force or knock sth out of its position"
+
+
+
+29.out of reach 
+
+[phrase] Television, T-shirts and tacos were cheaper than ever, but many essentials like health care, housing and higher education were increasingly *out of reach*.
+
+"not able to be achieved"
+
+
+
+30.barrel /ˈbærəl/
+
+[n] a beer/wine barrel. 
+
+"a large round container, usually made of wood or metal, with flat ends and, usually, curved sides"
+
+
+
+31.anecdotal /ˌænɪkˈdoʊtl/
+
+[adj] anecdotal evidence.
+
+"based on anecdotes and possibly not true or accurate"
+
+
+
+32.agile /ˈædʒl/
+
+[adj] The study demonstrates that bears are **capable** of ***agile\*** and thought-out behaviours.
+
+"able to move quickly and easily" -nimble-
+
+
+
+33.frustration /frʌˈstreɪʃn/
+
+[n] "the feeling of being frustrated"
+
+
+
+34.on a kill 
+
+
+
+35.extinction /ɪkˈstɪŋkʃn/
+
+[n] The mountain gorilla is on the verge of extinction .
+
+"a situation in which a plant, an animal, a way of life, etc. stops existing"
+
+
+
+36.majestic /məˈdʒestɪk/
+
+[adj] a majestic castle/river/view.
+
+"impressive because of size or beauty"  - awe-inspiring, splendid-
+
+
+
+#### C16T1P2
+
+01.Djoser 
+
+
+
+02.
+
+
+
 ## listening
 
 ### Rent a house
@@ -155,6 +458,166 @@ steadily  ['stedɪlɪ]
 and one that's increasing steadily year on year. 
 
 whereas  [ˌweərˈæz]  [ˌwerˈæz] 
+
+
+
+#### C16T4S1
+
+01.rental /ˈrentl/
+
+[n] Telephone charges include line rental.
+
+"the amount of money that you pay to use sth for a particular period of time"
+
+[n] "the act of renting sth or an arrangement to rent sth"
+
+
+
+02.granary /ˈɡrænəri/
+
+[n] Some friends of ours rented **Granary** Cottage from you last year, and they thought it was great.
+
+"a building where grain is stored"
+
+
+
+03.chervil /ˈtʃɜːrvɪl/
+
+[n] Well,we've just finished **converting** another building into a cottage, which we're calling **Chervil** Cottage.
+
+"a plant with leaves that are used in cooking as a herb"
+
+
+
+04.fairly /ˈferli/
+
+[adv] That's right. It grows **fairly** wild around here. You could have that for the week you want for £480.
+
+"to some extent but not very"
+
+
+
+05.French doors /frentʃ dɔːz/
+
+One of the main differences between double doors and French doors is the material in which they are crafted. **Double doors are often made of solid wood, whereas French doors are crafted with panes of glass** which helps flood the space with natural light.
+
+![French_door](/home/jiang/桌面/ielts/image_source/French_door.jpeg)
+
+
+
+06.deckchair /ˈdektʃer/
+
+[n] Yes, you get to it from the living room through **French doors**, and we provide two **deckchairs**.
+
+"a folding chair with a seat made from a long strip of material on a wooden or metal frame, used for example on a beach"
+
+
+
+07.patio /ˈpætioʊ/
+
+[n] We hope to build a **patio** in the near future, but I wouldn't like to **guarantee** it'll be finished by May.
+
+"a flat hard area outside, and usually behind, a house where people can sit"
+
+
+
+08.farmyard /ˈfɑːrmjɑːrd/
+
+[n] The front door opens onto the old **farmyard**, and parking isn't a problem - there's plenty of room at the front for that.
+
+"an area that is surrounded by farm buildings"
+
+
+
+09.presume /prɪˈzuːm/
+
+[v]  What about facilities in the cottage? It has **standard** things like a cooker and fridge, I **presume.**
+
+"to suppose that sth is true, although you do not have actual proof"
+
+
+
+10.potted /ˈpɑːtɪd/
+
+[adj] There are some trees and **potted** plants there.
+
+"planted in a pot"
+
+
+
+11.cosy /ˈkoʊzi/
+
+[adj] It smells so much nicer than coal, and it makes the room very **cosy** - we've got one in our own house.
+
+"warm, comfortable and safe, especially because of being small or confined"
+
+
+
+12.**secure** your booking 
+
+[PHRASE ]Yes, we ask for thirty percent to **secure** your booking, so that' ll be, um, £144.
+
+
+
+13.hill /hɪl/
+
+[n] and has a lovely view of the **hills** and the monument at the top.
+
+"an area of land that is higher than the land around it, but not as high as a mountain"
+
+
+
+14.garage /ˈɡærɑːʒ/ /ɡəˈrɑːʒ/
+
+[n] Of **course**. The building was built as a **garage**. It's a little smaller than Granary Cottage.
+
+"a building for keeping one or more cars or other vehicles in"
+
+
+
+15.bath /bɑːθ/ /bæθ/
+
+[n] The bathroom is too small for a bath, so there's a shower instead. I think a lot of people prefer that nowadays, anyway.
+
+"a large, long container that you put water in and then get into to wash your whole body"
+
+
+
+16.make the most of it
+
+Perhaps we should come in the winter, to make the most of it! "use to the best advantage."
+
+ 
+
+17.monument /ˈmɒnjumənt/
+
+[n] The bedroom window looks in the **opposite** **direction**, and has a lovely view of the **hills** and the monument at the top.
+
+"a building, column, statue, etc. built to remind people of a famous person or event"
+
+
+
+18.get to
+
+There's a cheat you can use to get to the next level. /Allow plenty of time to get to the airport. "arrive at the point of"
+
+You'll like her once you get to know her.  "contact"
+
+
+
+
+
+##### Good sentences
+
+1. Yes, you **get to** it from the living room through **French doors**,
+
+   "arrive at the point of" Allow plenty of time to get to the airport. 
+
+2.  Yes, we ask for thirty percent to **secure your booking**
+
+3. Some friends of ours
+
+
 
 
 
@@ -410,11 +873,13 @@ but need to ***juggle*** work with other responsibilities such as child care - a
 
 30.career ladder  
 
+A career ladder refers to a series of progressive steps or levels within a particular profession or organization that individuals can climb as they gain experience, skills, and qualifications. 
+
 
 
 31.maternity cover contract  [məˈtɜː(r)nəti] 
 
-
+A maternity cover contract, also known as a maternity leave replacement contract, is a temporary employment agreement that is entered into to cover the absence of an employee who is on maternity leave. When an employee goes on maternity leave, their employer may hire a temporary replacement to fulfill their job responsibilities during their absence.
 
 #### C12T5S2
 
@@ -856,7 +1321,7 @@ It can be hired out for meetings.
 
 
 
-## Reading
+### Reading
 
 #### C9T1P1
 
@@ -1040,11 +1505,78 @@ It can be hired out for meetings.
 
 
 
+### Renovation and construction
+
+#### C16T4S2
+
+01.widen/ˈwaɪdn/
+
+[v]  It will be widened.
+
+"to become wider; to make sth wider"
 
 
 
+02.cycle path/ˈsaɪkl pæθ/
+
+[n] Which change will shortly be made to the cycle path next to the river?
+
+"A **cycle path** is a special path on which people can travel by bicycle separately from motor vehicles."
 
 
 
+03.*ring road*/ˈrɪŋ roʊd/
+
+[n] Design of System of Fourth Ring Road Project in Beijing City.
+
+"a road that is built around a city or town to reduce traffic in the centre"
 
 
+
+04.resurface /ˌriːˈsɜːrfɪs/
+
+[v] it will be resurfaced. "to put a new surface on a road, path, etc."
+
+[v] The submarine resurfaced.
+
+"to come to the surface again after being underwater or under the ground"
+
+
+
+05.erect /ɪˈrekt/
+
+[verb] On Station Road, notices have been erected.
+
+"to put sth in position and make it stand vertical" -put sth up-
+
+
+
+06.cyclist /ˈsaɪklɪst/
+
+[n] telling cyclists not to leave their bikes outside the station ticket office.
+
+"a person who rides a bicycle"
+
+
+
+07.motorist /ˈmoʊtərɪst/
+
+[n] asking motorists to switch off engines when waiting at the level crossing.
+
+ "a person driving a car"
+
+
+
+08.pedestrian /pəˈdestriən/
+
+[n] warning pedestrians to leave enough time when crossing the railway line.
+
+"a person walking in the street and not travelling in a vehicle"
+
+[adj] pedestrian areas.
+
+"used by or for the use of pedestrians ; connected with pedestrians"
+
+[adj] I drove home contemplating my own more pedestrian lifestyle. 
+
+"without any imagination or excitement; dull" -unimaginative- "普罗大众般的"
