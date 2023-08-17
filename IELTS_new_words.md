@@ -1,6 +1,6 @@
 ## Reading
 
-#### C16T1P1
+#### C16T1P1.36
 
 01.polar /ˈpoʊlər/
 
@@ -301,107 +301,421 @@ When we say "Max wants to be  a basketball player, yet he never practices," we f
 
 
 
+#### C9T1P1.29
+
+01.curiosity [ˌkjʊəriˈɒsəti] 
+
+[noun] *As* a boy, Perkin's *curiosity* prompted early interests in the arts, sciences, photography, and engineering. 
+
+"a strong desire to know about sth"
+
+
+
+02.stumble upon
+
+[phrase verb] But it was a chance stumbling upon a run-down, **yet** functional, laboratory in his late grandfather's home that solidified the young man's enthusiasm for *chemistry*.
+
+"to find or learn about (something) unexpectedly"
+
+
+
+03.run-down [ˌrʌn ˈdaʊn] 
+
+[adj] run-down inner-city areas.
+
+ "in very bad condition; that has not been taken care of" -neglected-
+
+[adj] run-down transport services.
+
+"not as busy or as active as it used to be"
+
+
+
+04.late grandfather 
+
+[adj] "deceased"
+
+
+
+05.solidify [səˈlɪdɪfaɪ] 
+
+[verb] The mixture will solidify into toffee.
+
+"to become solid; to make sth solid"
+
+
+
+06.enthusiasm [ɪnˈθjuːziæzəm] 
+
+[noun] {~ (for sth/for doing sth)} She never lost her enthusiasm for teaching.
+
+"a strong feeling of excitement and interest in sth and a desire to become involved in it"
+
+
+
+07.dye  [daɪ] 
+
+[verb] "to change the colour of sth, especially by using a special liquid or substance"
+
+[noun]  *Further, natural dyes tended to be muddy in hue and fade quickly*.
+
+"a substance that is used to change the colour of things such as cloth or hair"
+
+
+
+08.immersed  [ɪˈmɜː(r)st]
+
+[adj] *As* a student at the City of London School, Perkin became immersed in the study of *chemistry*. 
+
+"If you **immerse** yourself in something that you are doing, you become completely involved in it."
+
+
+
+09.devotion [dɪˈvəʊʃn]
+
+[noun] His talent and **devotion** to the subject were perceived by his teacher.
+
+"great love, care and support for sb/sth"
+
+
+
+10.perceive  [pə(r)ˈsiːv] 
+
+[vt] His talent and **devotion** to the subject were **perceived** by his teacher.
+
+"to notice or become aware of sth"
+
+
+
+11.eminent [ˈemɪnənt]
+
+[adj] Thomas Hall, who encouraged him to attend a series of lectures given by the **eminent** scientist Michael Faraday at the Royal Institution.
+
+"famous and respected, especially in a particular profession"
+
+
+
+12.noted [ˈnəʊtɪd]
+
+[adj] At the time of Perkin's ***enrolment\***, the Royal College of *Chemistry* was headed by the **noted** German chemist August Wilhelm Hofmann. 
+
+"well known because of a special skill or feature" -famous-
+
+
+
+13.actch [kætʃ] caught caught
+
+
+
+14.fame and fortune[feɪm ənd ˈfɔːtʃuːn] 
+
+[noun phrase] Not long after that, Perkin made the scientific **breakthrough** that would bring him both fame and fortune.
+
+
+
+15.viable  [ˈvaɪəbl] 
+
+[adj] At the time, quinine was the only ***viable\*** medical treatment for **malaria**.
+
+"that can be done; that will be successful" -feasible-
+
+
+
+16.quinine [ˈkwɪniːn]  [ˈkwaɪnaɪn]
+
+[noun]  At the time, quinine was the only ***viable\*** medical treatment for **malaria**.
+
+"a drug made from the bark of a S American tree, used in the past to treat malaria"
+
+
+
+17.malaria  [məˈleriə] 
+
+[noun] A new advance has been made in the control of malaria. 
+
+"a disease that causes fever and shivering (= shaking of the body) caused by the bite of some types of mosquito"
+
+
+
+18.derived from [dɪˈraɪvd frəm] 
+
+[] Football is derived from soccer and rugby.
+
+
+
+19.bark  [bɑːrk]
+
+[noun] I set the log on the ground and shaved off the bark.
+
+"the outer covering of a tree"
+
+
+
+20.desirability [dɪˌzaɪərəˈbɪlɪti]
+
+[noun] No one questions the desirability of cheaper fares.
+
+“the quality of being worthy of desiring“
+
+
+
+27.synthetic  [sɪnˈθetɪk] 
+
+[adj] synthetic drugs/fabrics/subtitute.
+
+"artificial; made by combining chemical substances rather than being produced naturally by plants or animals"
+
+
+
+28.substitute  [ˈsʌbstɪtjuːt] 
+
+[noun] Paul's father only saw him as a substitute for his dead brother.
+
+"a person or thing that you use or have instead of the one you normally use or have"
+
+
+
+29.pupil [ˈpjuːpl]
+
+[noun] it was unsurprising that his star **pupil** was moved to take up the challenge.
+
+"a person who is taught artistic, musical, etc. skills by an expert"
+
+
+
+### Renovation and construction
+
+#### C16T4S2.08
+
+01.widen/ˈwaɪdn/
+
+[v]  It will be widened.
+
+"to become wider; to make sth wider"
+
+
+
+02.cycle path/ˈsaɪkl pæθ/
+
+[n] Which change will shortly be made to the cycle path next to the river?
+
+"A **cycle path** is a special path on which people can travel by bicycle separately from motor vehicles."
+
+
+
+03.*ring road*/ˈrɪŋ roʊd/
+
+[n] Design of System of Fourth Ring Road Project in Beijing City.
+
+"a road that is built around a city or town to reduce traffic in the centre"
+
+
+
+04.resurface /ˌriːˈsɜːrfɪs/
+
+[v] it will be resurfaced. "to put a new surface on a road, path, etc."
+
+[v] The submarine resurfaced.
+
+"to come to the surface again after being underwater or under the ground"
+
+
+
+05.erect /ɪˈrekt/
+
+[verb] On Station Road, notices have been erected.
+
+"to put sth in position and make it stand vertical" -put sth up-
+
+
+
+06.cyclist /ˈsaɪklɪst/
+
+[n] telling cyclists not to leave their bikes outside the station ticket office.
+
+"a person who rides a bicycle"
+
+
+
+07.motorist /ˈmoʊtərɪst/
+
+[n] asking motorists to switch off engines when waiting at the level crossing.
+
+ "a person driving a car"
+
+
+
+08.pedestrian /pəˈdestriən/
+
+[n] warning pedestrians to leave enough time when crossing the railway line.
+
+"a person walking in the street and not travelling in a vehicle"
+
+[adj] pedestrian areas.
+
+"used by or for the use of pedestrians ; connected with pedestrians"
+
+[adj] I drove home contemplating my own more pedestrian lifestyle. 
+
+"without any imagination or excitement; dull" -unimaginative- "普罗大众般的"
+
+
+
 ## listening
 
 ### Rent a house
 
-#### C11T1S1
+#### C11T1S1.04
 
-And talking of bands, I'm sure I don't need to tell you this, but you must make sure that no one **fiddles** about with the black box by the fire door - that's a system that cuts in when the volume reaches a *certain* level.
+01.And talking of bands, I'm sure I don't need to tell you this, but you must make sure that no one **fiddles** about with the black box by the fire door - that's a system that cuts in when the volume reaches a *certain* level.
 
-It's got all the cleaning equipment, brushes and detergent[dɪˈtɜːdʒənt]  and so on.
 
-And the chairs and tables should be **stacked up** neatly at the back of the room.
 
-detergent [dɪˈtɜːdʒənt]
+02.It's got all the cleaning equipment, brushes and detergent[dɪˈtɜːdʒənt]  and so on.
+
+
+
+03.And the chairs and tables should be **stacked up** neatly at the back of the room.
+
+
+
+04.detergent [dɪˈtɜːdʒənt]
 
 [noun] "a liquid or powder that helps remove dirt, for example from clothes or dishes"
 
 
 
-#### C9T2L1
+#### C9T2L1.10
 
-hall of residence
-
-so forth [fɔːθ] “and similar things; et cetera.“
-
-nursing
-
-catering  [ˈkeɪtərɪŋ] “the work of providing food and drinks for meetings or social events“
-
-full board
-
-bedsit
-
-theatre/theater
-
-priorities
-
-mature
-
-cater for sb/sth  “to provide the things that a particular person or situation needs or wants“
+01.hall of residence
 
 
 
-#### C8T3L1
-
-WOMAN:That might be difficult, *as* most houses of that size are in the ***suburbs***[ˈsʌbə(r)bz].
-
-What's your **upper limit** for the rent?
-
-All our **lets** *start* on the first of the month.
-
-and we don't want to have to move during that time if we can **avoid** it.
-
-**And how soon do you want to move in**?
-
-It’s got a very *large* *living* room and kitchen, bathroom, **cloakroom**...
-
-It's very *well* **furnished** and equipped.
-
-But this one hasn't been **decorated** for a few years, which has kept the rent down a bit.
-
-In fact the swimming pool’s already opened **ahead of schedule**.
-
-I don’t think we could **cope with** that, to be honest.
-
-We’ll be too busy to **look after** it.
+02.so forth [fɔːθ] “and similar things; et cetera.“
 
 
 
-#### C7T4S1
+03.nursing
 
-I am a **veterinarian** [ˌvetərɪˈneriən]  so that’s fine...
 
-no **objection** to 
+
+04.catering  [ˈkeɪtərɪŋ] “the work of providing food and drinks for meetings or social events“
+
+
+
+05.full board
+
+
+
+06.bedsit
+
+
+
+07.theatre/theater
+
+
+
+08.priorities
+
+
+
+09.mature
+
+
+
+10.cater for sb/sth  “to provide the things that a particular person or situation needs or wants“
+
+
+
+#### C8T3L1.11
+
+01.WOMAN:That might be difficult, *as* most houses of that size are in the ***suburbs***[ˈsʌbə(r)bz].
+
+
+
+02.What's your **upper limit** for the rent?
+
+
+
+03.All our **lets** *start* on the first of the month.
+
+
+
+04.and we don't want to have to move during that time if we can **avoid** it.
+
+
+
+05.**And how soon do you want to move in**?
+
+
+
+06.It’s got a very *large* *living* room and kitchen, bathroom, **cloakroom**...
+
+
+
+07.It's very *well* **furnished** and equipped.
+
+
+
+08.But this one hasn't been **decorated** for a few years, which has kept the rent down a bit.
+
+
+
+09.In fact the swimming pool’s already opened **ahead of schedule**.
+
+
+
+10.I don’t think we could **cope with** that, to be honest.
+
+
+
+11.We’ll be too busy to **look after** it.
+
+
+
+#### C7T4S1.02
+
+1.I am a **veterinarian** [ˌvetərɪˈneriən]  so that’s fine...
+
+
+
+2.no **objection** to 
 
 "I have no objection to him coming to stay"
 
 
 
-#### C4T3S1
+#### C4T3S1.01
 
-You don't need to pay for gas, electricity or water(**Utilities** [ju(ː)ˈtɪlɪtiz] ), but you will need to pay your **proportion** [prəˈpɔː(r)ʃn] of the phone bill.
+1.You don't need to pay for gas, electricity or water(**Utilities** [ju(ː)ˈtɪlɪtiz] ), but you will need to pay your **proportion** [prəˈpɔː(r)ʃn] of the phone bill.
 
 
 
 ### Travel
 
-#### C12T6S2
+#### C12T6S2.14
 
-finalizing  [ˈfaɪnəlaɪzɪŋ]
-
-Munich  [ˈmjuːnɪk] 
-
-up to date
-
-Right. I’ve now almost succeeded in **finalizing** plans for our tour, so I’ll bring you **up to date** with what I know.
-
-plenty  [ˈplenti]
+1.finalizing  [ˈfaɪnəlaɪzɪŋ]
 
 
 
-liaise [liˈeɪz]
+2.Munich  [ˈmjuːnɪk] 
+
+
+
+3.up to date
+
+
+
+4.Right. I’ve now almost succeeded in **finalizing** plans for our tour, so I’ll bring you **up to date** with what I know.
+
+
+
+5.plenty  [ˈplenti]
+
+
+
+6.liaise [liˈeɪz]
 
 [verb]{~ (with sb)} "to work closely with sb and exchange information with them"
 
@@ -409,33 +723,35 @@ He's already liaised with the managers of the theatres we're going to visit, and
 
 
 
-rehearsal [rɪˈhɜː(r)sl]
+7.rehearsal [rɪˈhɜː(r)sl]
 
 [noun] "time that is spent practising a play or piece of music in preparation for a public performance"
 
 
 
-Italian [ɪˈtæliən]  restaurant
+8.Italian [ɪˈtæliən]  restaurant
 
 
 
-confess  [kənˈfes] 
+9.confess  [kənˈfes] 
 
 [verb] "to admit, especially formally or to the police, that you have done sth wrong or illegal"
 
 Some of you suggested an **Italian** restaurant, but I must **confess** that I decided to book a **Lebanese** one, *as* we have plenty of opportunities to go to an Italian restaurant at home.
 
-Lebanese [ˌlebəˈniːz]
+
+
+10.Lebanese [ˌlebəˈniːz]
 
 
 
-playwright  [ˈpleɪraɪt]
+11.playwright  [ˈpleɪraɪt]
 
 [noun] "a person who writes plays for the theatre, television or radio"
 
 
 
-premiere  [ˈpremieə(r)]
+12.premiere  [ˈpremieə(r)]
 
 [noun]
 
@@ -443,25 +759,29 @@ premiere  [ˈpremieə(r)]
 
 
 
-dressy occasion
+13.dressy occasion
 
-though of course 
+
+
+14.though of course 
 
 The play we're seeing on Wednesday evening *is* a modern one, and we're going to the **premiere**, so it'll be quite a dressy occasion, **though of course** you don't have to dress formally.
 
 
 
-#### C12T7S2
+#### C12T7S2.02
 
-steadily  ['stedɪlɪ] 
+01.steadily  ['stedɪlɪ] 
 
 and one that's increasing steadily year on year. 
 
-whereas  [ˌweərˈæz]  [ˌwerˈæz] 
+
+
+02.whereas  [ˌweərˈæz]  [ˌwerˈæz] 
 
 
 
-#### C16T4S1
+#### C16T4S1.18
 
 01.rental /ˈrentl/
 
@@ -501,7 +821,7 @@ whereas  [ˌweərˈæz]  [ˌwerˈæz]
 
 One of the main differences between double doors and French doors is the material in which they are crafted. **Double doors are often made of solid wood, whereas French doors are crafted with panes of glass** which helps flood the space with natural light.
 
-![French_door](/home/jiang/桌面/ielts/image_source/French_door.jpeg)
+![French_door](./image_source/French_door.jpeg)
 
 
 
@@ -623,9 +943,9 @@ You'll like her once you get to know her.  "contact"
 
 ### recruitment [rɪˈkruːtmənt] 
 
-#### C8T4S1
+#### C8T4S1.06
 
-be ringing about 
+01.be ringing about 
 
 ring  [rɪŋ]
 
@@ -635,21 +955,29 @@ ring  [rɪŋ]
 
 
 
-day off [ˌdeɪ ˈɔːf] 
+02.day off [ˌdeɪ ˈɔːf] 
 
 "a day on which you do not have to work"
 
-temporary staff  [ˈtemprəri stɑːf]
 
-trouser [ˈtraʊzər]
 
-waistcoat [ˈweɪskəʊt]
-
-vouch [vaʊtʃ]
+03.temporary staff  [ˈtemprəri stɑːf]
 
 
 
-#### C16T3S2
+04.trouser [ˈtraʊzər]
+
+
+
+05.waistcoat [ˈweɪskəʊt]
+
+
+
+06.vouch [vaʊtʃ]
+
+
+
+#### C16T3S2.31
 
 01.recruitment consultant /rɪˈkruːtmənt kənˈsʌltənt/
 
@@ -881,81 +1209,115 @@ A career ladder refers to a series of progressive steps or levels within a parti
 
 A maternity cover contract, also known as a maternity leave replacement contract, is a temporary employment agreement that is entered into to cover the absence of an employee who is on maternity leave. When an employee goes on maternity leave, their employer may hire a temporary replacement to fulfill their job responsibilities during their absence.
 
-#### C12T5S2
 
-footwear  [ˈfʊtweə(r)] 
+
+#### C12T5S2.12
+
+01.footwear  [ˈfʊtweə(r)] 
 
 [noun] Now I'm glad to see none of you have unsuitable *footwear*, so that's good - you need to be *careful* *as* the floors can get very wet and **slippery**.
 
 "things that people wear on their feet, for example shoes and boots"
 
-jewelry  [ˈdʒuːəlri] jewellery
+
+
+02.jewelry  [ˈdʒuːəlri] jewellery
 
 [noun] 
 
-bracelet  [ˈbreɪslət]
+
+
+03.bracelet  [ˈbreɪslət]
 
 [noun] "a piece of jewellery worn around the wrist [rɪst] or arm"
 
-is concerned about
 
-safety hazard  [ˈseɪfti ˈhæzəd] 
 
-out of bounds
+04.is concerned about
 
-physically demanding
 
-timetable
 
-smash[smæʃ]  a plate
+05.safety hazard  [ˈseɪfti ˈhæzəd] 
 
-perishable  [ˈperɪʃəbl]
+
+
+06.out of bounds
+
+
+
+07.physically demanding
+
+
+
+08.timetable
+
+
+
+09.smash[smæʃ]  a plate
+
+
+
+10.perishable  [ˈperɪʃəbl]
 
 [adj] He's the member of staff who takes care of all the stores of perishables.
 
  "likely to decay or go bad quickly"
 
-breakage  [ˈbreɪkɪdʒ] 
+
+
+11.breakage  [ˈbreɪkɪdʒ] 
 
 [noun] "an object that has been broken"
 
- waste disposal system  [weɪst dɪˈspəʊzl ˈsɪstəm] 
+
+
+12.waste disposal system  [weɪst dɪˈspəʊzl ˈsɪstəm] 
 
 
 
-#### C10T4S1
+#### C10T4S1.06
 
-flat [flæt] 
+01.flat [flæt] 
 
 [noun] Do you live in a flat or a house?
 
 "a set of rooms for living in, including a kitchen, usually on one floor of a building".
 
-take down
+
+
+02.take down
 
 [phrase] I'm sure I'd be able to help but let me take down a few details.
 
 "If you **take down** a piece of information or a statement, you write it down."
 
-full itemised quote
 
-cracked  [krækt] 
+
+03.full itemised quote
+
+
+
+04.cracked  [krækt] 
 
 [adj] With all the weather damage, the glass in the door has **cracked** and I'd need that fixing...
 
 "damaged with lines in its surface but not completely broken"
 
-presume  [prɪˈzjuːm] 
+
+
+05.presume  [prɪˈzjuːm] 
 
 [verb] I **presume** you mean replacing?  "to suppose that sth is true, although you do not have actual proof"
 
-Strip paint and plaster[ˈplæstər] 
+
+
+06.Strip paint and plaster[ˈplæstər] 
 
 
 
-#### C11T2S4
+#### C11T2S4.01
 
-metaphor [ˈmetəfə(r)] 
+01.metaphor [ˈmetəfə(r)] 
 
 [noun] "a word or phrase used to describe sb/sth else, in a way that is different from its normal use, in order to show that the two things have the same qualities and to make the description more powerful, for example She has a heart of stone ; the use of such words and phrases"
 
@@ -963,9 +1325,9 @@ metaphor [ˈmetəfə(r)]
 
 ### Activity
 
-#### C11T4S1
+#### C11T4S1.04
 
-flute [fluːt] 
+01.flute [fluːt] 
 
 [noun] Doesn't she play the oboe, or *flute* or something? 
 
@@ -973,7 +1335,7 @@ flute [fluːt]
 
 
 
-venue [ˈvenjuː] 
+02.venue [ˈvenjuː] 
 
 [noun] And the venue is the school, isn't it?
 
@@ -981,7 +1343,7 @@ venue [ˈvenjuː]
 
 
 
-symphony orchestra  [ˈsɪmfəni ɔːkɪstrə] 
+03.symphony orchestra  [ˈsɪmfəni ɔːkɪstrə] 
 
 [noun] She usually plays with **symphony** *orchestras, and apparently* this is her first time with a jazz band.
 
@@ -989,7 +1351,7 @@ symphony orchestra  [ˈsɪmfəni ɔːkɪstrə]
 
 
 
-babysitter [ˈbeɪbisɪtər] 
+04.babysitter [ˈbeɪbisɪtər] 
 
 [noun] If you'd like something for yourself and your husband, and leave your children with a babysitter, you might like to see 'Fire and Flood'- it's about events that really happened in Stretton two hundred years ago, and children might find it *rather* frightening.
 
@@ -997,9 +1359,9 @@ babysitter [ˈbeɪbisɪtər]
 
 
 
-#### C11T3S1
+#### C11T3S1.07
 
-trail  [treɪl] 
+01.trail  [treɪl] 
 
 [noun] The art gallery *is* holding an event called 'Family Welcome' that day, when there are activities and *trails* to use throughout the gallery.
 
@@ -1007,7 +1369,7 @@ trail  [treɪl]
 
 
 
-sculpture  [ˈskʌlptʃə(r)] 
+02.sculpture  [ˈskʌlptʃə(r)] 
 
 [noun] Last time they ran the event, there was a film about painting, which went down very *well* with the children, and they're now working on one about ***sculpture\***.
 
@@ -1015,7 +1377,7 @@ sculpture  [ˈskʌlptʃə(r)]
 
 
 
-habitat  [ˈhæbɪtæt]
+03.habitat  [ˈhæbɪtæt]
 
 [noun] There *is* a lake there, *as* *well* *as* a river, and they provide a very attractive *habitat*.
 
@@ -1023,7 +1385,7 @@ habitat  [ˈhæbɪtæt]
 
 
 
-binoculars [bɪˈnɒkjələz] 
+04.binoculars [bɪˈnɒkjələz] 
 
 [noun] So it's a good idea to bring ***binoculars\*** if you have them.
 
@@ -1031,7 +1393,7 @@ binoculars [bɪˈnɒkjələz]
 
 
 
-soil  [sɔɪl]
+05.soil  [sɔɪl]
 
 [noun] And just at the moment you can see various flowers that are pretty unusual - the *soil* at Paxton isn't very common.
 
@@ -1039,7 +1401,7 @@ soil  [sɔɪl]
 
 
 
-shallow [ˈʃæləʊ] 
+06.shallow [ˈʃæləʊ] 
 
 [adj] They were playing in the shallow end (= of the swimming pool) .
 
@@ -1047,7 +1409,7 @@ shallow [ˈʃæləʊ]
 
 
 
-lifeguard  [ˈlaɪfɡɑːrd]
+07.lifeguard  [ˈlaɪfɡɑːrd]
 
 [noun] It's very shallow, and there's a *lifeguard* on duty whenever it's *open*.
 
@@ -1055,9 +1417,9 @@ lifeguard  [ˈlaɪfɡɑːrd]
 
 
 
-#### C9T1S2
+#### C9T1S2.08
 
-branch [bræntʃ] 
+01.branch [bræntʃ] 
 
 [noun] it's attracted a lot of custom, and so the company has now decided to *open* another ***branch\*** in the *area*.
 
@@ -1065,7 +1427,7 @@ branch [bræntʃ]
 
 
 
-ultimate
+02.ultimate
 
 [noun] I was invited to a special preview and I can promise you, this is the ultimate in sports retailing.
 
@@ -1073,7 +1435,7 @@ ultimate
 
 
 
-minimalist  [ˈmɪnɪməlɪst] 
+03.minimalist  [ˈmɪnɪməlɪst] 
 
 [noun/adj] The whole place has been given a new minimalist look with the company's signature colours of black and red.
 
@@ -1081,7 +1443,7 @@ minimalist  [ˈmɪnɪməlɪst]
 
 
 
-devoted [dɪˈvoʊtɪd]
+04.devoted [dɪˈvoʊtɪd]
 
 [adj] {~ (to sb/sth)} They are devoted to their children. 
 
@@ -1089,7 +1451,7 @@ devoted [dɪˈvoʊtɪd]
 
 
 
-autograph  [ˈɔːtəɡrɑːf] 
+05.autograph  [ˈɔːtəɡrɑːf] 
 
 [noun] and he will be staying around until about midday to chat to any fans who want to meet him and sign autographs.
 
@@ -1097,7 +1459,7 @@ autograph  [ˈɔːtəɡrɑːf]
 
 
 
-entrant [ˈentrənt] 
+06.entrant [ˈentrənt] 
 
 [noun] All **entrants** will receive a special Sports calendar with details of all Bradcaster **fixtures** in the coming year.
 
@@ -1109,7 +1471,7 @@ entrant [ˈentrənt]
 
 
 
-fixture [ˈfɪkstʃər] 
+07.fixture [ˈfɪkstʃər] 
 
 [noun] All **entrants** will receive a special Sports calendar with details of all Bradcaster **fixtures** in the coming year.
 
@@ -1121,7 +1483,7 @@ The price of the house includes fixtures and fittings .
 
 
 
-cardiac [ˈkɑːdiæk]  fitness
+08.cardiac [ˈkɑːdiæk]  fitness
 
 muscle tone [ˈmʌsl toʊn]
 
@@ -1129,27 +1491,27 @@ One of the special opening offers is a fitness test - a complete review of your 
 
 
 
-#### C8T1S1
+#### C8T1S1.08
 
-Avenue [ˈævənjuː] 
+01.Avenue [ˈævənjuː] 
 
 [noun]  48 North *Avenue*. "a street in a town or city"
 
 
 
-Loads of people
+02.Loads of people
 
 Loads of people have phoned you.
 
 
 
-secretary [ˈsekrəteri] 
+03.secretary [ˈsekrəteri] 
 
 NINA:I felt just like your secretary!
 
 
 
-brochure  [ˈbrəʊʃə(r)] 
+04.brochure  [ˈbrəʊʃə(r)] 
 
 [noun] No, a brochure from a summer festival - mainly Spanish music.
 
@@ -1157,7 +1519,7 @@ brochure  [ˈbrəʊʃə(r)]
 
 
 
-drum  [drʌm] 
+05.drum  [drʌm] 
 
 They play fantastic instruments - drums and flutes and old kinds of guitars.
 
@@ -1165,11 +1527,11 @@ They play fantastic instruments - drums and flutes and old kinds of guitars.
 
 
 
-spoil ourself 
+06.spoil ourself 
 
 
 
-refreshment
+07.refreshment
 
 "drinks and small amounts of food that are provided or sold to people in a public place or at a public event"
 
@@ -1177,7 +1539,7 @@ refreshment
 
 
 
-Senior Citizen  [ˈsiːniə(r) ˈsɪtɪzn]
+08.Senior Citizen  [ˈsiːniə(r) ˈsɪtɪzn]
 
 [noun] Children, Students and Senior Citizens get a 50% discount on everything.
 
@@ -1185,9 +1547,9 @@ Senior Citizen  [ˈsiːniə(r) ˈsɪtɪzn]
 
 
 
-#### C8T1S2
+#### C8T1S2.07
 
-brief  [briːf]
+01.brief  [briːf]
 
 [vt] One or more of the tour guides will welcome you there and **brief** you about what the tour will be about.
 
@@ -1195,7 +1557,7 @@ brief  [briːf]
 
 
 
-exhibition  [ˌeksɪˈbɪʃn]
+02.exhibition  [ˌeksɪˈbɪʃn]
 
 [noun] We do this there because our entrance *is* quite small and we really haven't got much room for briefing groups in the exhibition *area*.
 
@@ -1205,11 +1567,11 @@ exhibition  [ˌeksɪˈbɪʃn]
 
 
 
-goes   [ɡoʊz]
+03.goes   [ɡoʊz]
 
 
 
-foyer  [ˈfɔɪeɪ] 
+04.foyer  [ˈfɔɪeɪ] 
 
 [noun] When the students come into the museum ***foyer\*** we ask them to check in their backpacks with their books, lunch boxes, etc, at the **cloakroom** before they enter the museum proper. 
 
@@ -1217,13 +1579,13 @@ foyer  [ˈfɔɪeɪ]
 
 
 
-cloakroom  [ˈkləʊkruːm] 
+05.cloakroom  [ˈkləʊkruːm] 
 
 [noun] "a room in a public building where people can leave coats, bags, etc. for a time"
 
 
 
-fragile  [ˈfrædʒaɪl]
+06.fragile  [ˈfrædʒaɪl]
 
 [adj] Also, some of the exhibits are **fragile** and we don't want them to be accidentally knocked.
 
@@ -1231,7 +1593,7 @@ fragile  [ˈfrædʒaɪl]
 
 
 
-handout [ˈhændaʊt] 
+07.handout [ˈhændaʊt] 
 
 [noun] But we do provide school students with handouts with questions and quizzes on them.
 
@@ -1239,7 +1601,7 @@ handout [ˈhændaʊt]
 
 
 
-#### C4T4S1
+#### C4T4S1.02
 
 01.thanks **ever** so much for coming.
 
@@ -1253,7 +1615,7 @@ handout [ˈhændaʊt]
 
 
 
-#### C7T3S1
+#### C7T3S1.04
 
 01.registered student /ˈrejəstərd/
 
@@ -1281,7 +1643,7 @@ handout [ˈhændaʊt]
 
 
 
-#### C12T7S1
+#### C12T7S1.07
 
 01.*Actually* Carol and I have **been meaning** to join for a while.
 
@@ -1321,262 +1683,92 @@ It can be hired out for meetings.
 
 
 
-### Reading
+#### C16T1S2
 
-#### C9T1P1
+01.metal goods/ˈmetl ɡʊdz/
 
-01.curiosity [ˌkjʊəriˈɒsəti] 
+[ph] Good morning, everyone, and welcome to Stevenson's, one of the **country**'s **major** manufacturers of **metal goods**.
 
-[noun] *As* a boy, Perkin's *curiosity* prompted early interests in the arts, sciences, photography, and engineering. 
 
-"a strong desire to know about sth"
 
+02.steel industry /stiːl ˈɪndəstri/
 
+[ph] "the industry that makes steel and steel products"
 
-02.stumble upon
 
-[phrase verb] But it was a chance stumbling upon a run-down, **yet** functional, laboratory in his late grandfather's home that solidified the young man's enthusiasm for *chemistry*.
 
-"to find or learn about (something) unexpectedly"
+03.set up 
 
+[ph v] He **set up** this company when he finished his **apprenticeship**, in 1926, although he actually started making plans two years earlier, in 1924. 
 
+"If you **set** something **up**, you create or arrange it."
 
-03.run-down [ˌrʌn ˈdaʊn] 
 
-[adj] run-down inner-city areas.
 
- "in very bad condition; that has not been taken care of" -neglected-
+04.apprenticeship /əˈprentɪʃɪp/
 
-[adj] run-down transport services.
+[n] He **set up** this company when he finished his **apprenticeship**, in 1926, although he actually started making plans two years earlier, in 1924. 
 
-"not as busy or as active as it used to be"
+"a period of time working as an apprentice ; a job as an apprentice"
 
 
 
-04.late grandfather 
+apprentice /əˈprentɪs/
 
-[adj] "deceased"
+[n] an apprentice electrician/chef.
 
+"a young person who works for an employer for a fixed period of time in order to learn the particular skills needed in their job"
 
 
-05.solidify [səˈlɪdɪfaɪ] 
 
-[verb] The mixture will solidify into toffee.
+05.determined /dɪˈtɜːmɪnd/
 
-"to become solid; to make sth solid"
+[adj] He was a very **determined** young man!
 
+"showing a person's determination to do sth"
 
 
-06.enthusiasm [ɪnˈθjuːziæzəm] 
 
-[noun] {~ (for sth/for doing sth)} She never lost her enthusiasm for teaching.
+06.lorry [ˈlɔːri]
 
-"a strong feeling of excitement and interest in sth and a desire to become involved in it"
+[n] and for the automotive industry, that is, cars and **lorries**.
 
+"a large vehicle for carrying heavy loads by road"
 
 
-07.dye  [daɪ] 
 
-[verb] "to change the colour of sth, especially by using a special liquid or substance"
+07.premises /ˈpremɪsɪz/
 
-[noun]  *Further, natural dyes tended to be muddy in hue and fade quickly*.
+[n] Over the years, we've expanded the **premises** **considerably**.
 
-"a substance that is used to change the colour of things such as cloth or hair"
+"the building and land near to it that a business owns or uses" -（企业的）房屋建筑及附属场地，营业场所-
 
 
 
-08.immersed  [ɪˈmɜː(r)st]
+08.considerably /kənˈsɪdərəbli/
 
-[adj] *As* a student at the City of London School, Perkin became immersed in the study of *chemistry*. 
+[adv] "much; a lot"
 
-"If you **immerse** yourself in something that you are doing, you become completely involved in it."
 
 
+09.refurbishment /ˌriːˈfɜːrbɪʃmənt/
 
-09.devotion [dɪˈvəʊʃn]
+[n] We **intend** to **carry** out **major** **refurbishment** of this site over the next five years.
 
-[noun] His talent and **devotion** to the subject were perceived by his teacher.
+"The **refurbishment** of something is the act or process of cleaning it, decorating it, and providing it with new equipment or facilities."
 
-"great love, care and support for sb/sth"
 
 
+10.altogether [ˌɔːltəˈɡeðə(r)]
 
-10.perceive  [pə(r)ˈsiːv] 
+[adv] And you'll all spend some time in each **department**, observing what's going on and talking to people - as long as you don't stop them from doing their work **altogether**! 
 
-[vt] His talent and **devotion** to the subject were **perceived** by his teacher.
+"(used to emphasize sth) completely; in every way"
 
-"to notice or become aware of sth"
 
 
+11.managing director /ˌmænɪdʒɪŋ dəˈrektə(r)/
 
-11.eminent [ˈemɪnənt]
+[n] {especially BrE, in AM, usually use chief executive officer} My name is Julia Simmons, and since the beginning of this year I've been the managing director.
 
-[adj] Thomas Hall, who encouraged him to attend a series of lectures given by the **eminent** scientist Michael Faraday at the Royal Institution.
-
-"famous and respected, especially in a particular profession"
-
-
-
-12.noted [ˈnəʊtɪd]
-
-[adj] At the time of Perkin's ***enrolment\***, the Royal College of *Chemistry* was headed by the **noted** German chemist August Wilhelm Hofmann. 
-
-"well known because of a special skill or feature" -famous-
-
-
-
-13.actch [kætʃ] caught caught
-
-
-
-14.fame and fortune[feɪm ənd ˈfɔːtʃuːn] 
-
-[noun phrase] Not long after that, Perkin made the scientific **breakthrough** that would bring him both fame and fortune.
-
-
-
-15.viable  [ˈvaɪəbl] 
-
-[adj] At the time, quinine was the only ***viable\*** medical treatment for **malaria**.
-
-"that can be done; that will be successful" -feasible-
-
-
-
-16.quinine [ˈkwɪniːn]  [ˈkwaɪnaɪn]
-
-[noun]  At the time, quinine was the only ***viable\*** medical treatment for **malaria**.
-
-"a drug made from the bark of a S American tree, used in the past to treat malaria"
-
-
-
-17.malaria  [məˈleriə] 
-
-[noun] A new advance has been made in the control of malaria. 
-
-"a disease that causes fever and shivering (= shaking of the body) caused by the bite of some types of mosquito"
-
-
-
-18.derived from [dɪˈraɪvd frəm] 
-
-[] Football is derived from soccer and rugby.
-
-
-
-19.bark  [bɑːrk]
-
-[noun] I set the log on the ground and shaved off the bark.
-
-"the outer covering of a tree"
-
-
-
-20.desirability [dɪˌzaɪərəˈbɪlɪti]
-
-[noun] No one questions the desirability of cheaper fares.
-
-“the quality of being worthy of desiring“
-
-
-
-27.synthetic  [sɪnˈθetɪk] 
-
-[adj] synthetic drugs/fabrics/subtitute.
-
-"artificial; made by combining chemical substances rather than being produced naturally by plants or animals"
-
-
-
-28.substitute  [ˈsʌbstɪtjuːt] 
-
-[noun] Paul's father only saw him as a substitute for his dead brother.
-
-"a person or thing that you use or have instead of the one you normally use or have"
-
-
-
-29.pupil [ˈpjuːpl]
-
-[noun] it was unsurprising that his star **pupil** was moved to take up the challenge.
-
-"a person who is taught artistic, musical, etc. skills by an expert"
-
-
-
-### Renovation and construction
-
-#### C16T4S2
-
-01.widen/ˈwaɪdn/
-
-[v]  It will be widened.
-
-"to become wider; to make sth wider"
-
-
-
-02.cycle path/ˈsaɪkl pæθ/
-
-[n] Which change will shortly be made to the cycle path next to the river?
-
-"A **cycle path** is a special path on which people can travel by bicycle separately from motor vehicles."
-
-
-
-03.*ring road*/ˈrɪŋ roʊd/
-
-[n] Design of System of Fourth Ring Road Project in Beijing City.
-
-"a road that is built around a city or town to reduce traffic in the centre"
-
-
-
-04.resurface /ˌriːˈsɜːrfɪs/
-
-[v] it will be resurfaced. "to put a new surface on a road, path, etc."
-
-[v] The submarine resurfaced.
-
-"to come to the surface again after being underwater or under the ground"
-
-
-
-05.erect /ɪˈrekt/
-
-[verb] On Station Road, notices have been erected.
-
-"to put sth in position and make it stand vertical" -put sth up-
-
-
-
-06.cyclist /ˈsaɪklɪst/
-
-[n] telling cyclists not to leave their bikes outside the station ticket office.
-
-"a person who rides a bicycle"
-
-
-
-07.motorist /ˈmoʊtərɪst/
-
-[n] asking motorists to switch off engines when waiting at the level crossing.
-
- "a person driving a car"
-
-
-
-08.pedestrian /pəˈdestriən/
-
-[n] warning pedestrians to leave enough time when crossing the railway line.
-
-"a person walking in the street and not travelling in a vehicle"
-
-[adj] pedestrian areas.
-
-"used by or for the use of pedestrians ; connected with pedestrians"
-
-[adj] I drove home contemplating my own more pedestrian lifestyle. 
-
-"without any imagination or excitement; dull" -unimaginative- "普罗大众般的"
+"the person who is in charge of a business"
